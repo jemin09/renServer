@@ -1,0 +1,17 @@
+{
+  "name": "renserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mobapi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mobapi.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql": "^2.18.1"
+  }
+}
